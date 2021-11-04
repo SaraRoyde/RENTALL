@@ -1,0 +1,10 @@
+F:\תכנות\final project\Back End\Rentall_Sara_BL\bin\Debug\netcoreapp3.1\Rentall_Sara_BL.deps.json
+F:\תכנות\final project\Back End\Rentall_Sara_BL\bin\Debug\netcoreapp3.1\Rentall_Sara_BL.dll
+F:\תכנות\final project\Back End\Rentall_Sara_BL\bin\Debug\netcoreapp3.1\Rentall_Sara_BL.pdb
+F:\תכנות\final project\Back End\Rentall_Sara_BL\obj\Debug\netcoreapp3.1\Rentall_Sara_BL.csproj.AssemblyReference.cache
+F:\תכנות\final project\Back End\Rentall_Sara_BL\obj\Debug\netcoreapp3.1\Rentall_Sara_BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\תכנות\final project\Back End\Rentall_Sara_BL\obj\Debug\netcoreapp3.1\Rentall_Sara_BL.AssemblyInfoInputs.cache
+F:\תכנות\final project\Back End\Rentall_Sara_BL\obj\Debug\netcoreapp3.1\Rentall_Sara_BL.AssemblyInfo.cs
+F:\תכנות\final project\Back End\Rentall_Sara_BL\obj\Debug\netcoreapp3.1\Rentall_Sara_BL.csproj.CoreCompileInputs.cache
+F:\תכנות\final project\Back End\Rentall_Sara_BL\obj\Debug\netcoreapp3.1\Rentall_Sara_BL.dll
+F:\תכנות\final project\Back End\Rentall_Sara_BL\obj\Debug\netcoreapp3.1\Rentall_Sara_BL.pdb

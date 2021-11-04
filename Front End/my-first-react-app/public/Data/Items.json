@@ -1,0 +1,44 @@
+[
+    {
+        "name": "מחשב MAC",
+        "details": "מחשב MAC נייח עם מסך מגע, מהירות ביצועים גבוהה, זיכרון 16GB ", 
+        "active":"true",
+        "landlord": {
+            "name":"",
+            "email":""
+        },
+        "contact": {"email1":"","email2":"","phone1":"","phone2":""},
+        "images": ["pexels-picjumbocom-196658.jpg"],
+        "category": "סלולר",
+        "subCategory": "מחשבים" , 
+        "location": {"locationX": 1,"locationY":1,"location":""},
+        "price": {
+            "year": [{"amount": 1, "price": 200},{"amount":2, "price": 300}],
+            "month": [{"amount": 1, "price": 20},{"amount": 2, "price": 30}],
+            "day": [],
+            "hour":[{"amount": 1,"price": 2}],
+            "minute": []
+        }
+    },
+    {
+        "name": "מחשב MAC",
+        "details": "מחשב MAC נייח עם מסך מגע, מהירות ביצועים גבוהה, זיכרון 16GB ", 
+        "active":"true",
+        "landlord": {
+            "name":"",
+            "email":""
+        },
+        "contact": {"email1":"","email2":"","phone1":"","phone2":""},
+        "images": ["pexels-picjumbocom-196658.jpg"],
+        "category": "סלולר",
+        "subCategory": "מחשבים" , 
+        "location": {"locationX": 1,"locationY":1,"location":""},
+        "price": {
+            "year": [{"amount": 1, "price": 200},{"amount":2, "price": 300}],
+            "month": [{"amount": 1, "price": 20},{"amount": 2, "price": 30}],
+            "day": [],
+            "hour":[{"amount": 1,"price": 2}],
+            "minute": []
+        }
+    }
+]

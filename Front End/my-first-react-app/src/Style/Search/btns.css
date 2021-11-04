@@ -1,0 +1,10 @@
+.button-no-values {
+    border-radius: 20px !important;
+    color: #FF7100 !important;
+    background-color: white !important;
+} 
+
+.button-contains-values {
+    background-color: #FF7100 !important;
+    color: white !important;
+}

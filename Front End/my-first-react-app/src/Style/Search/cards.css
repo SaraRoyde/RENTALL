@@ -1,0 +1,16 @@
+.card-image {
+    width: 100%;
+    padding: 5px;
+}
+
+.card-div {
+    justify-content: space-between;
+    width: 300px;
+    margin: 5px;
+}
+
+.cards-flex {
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+}
